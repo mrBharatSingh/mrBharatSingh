@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3>Languages and Tools:</h3>
+<div>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
+    </div>
