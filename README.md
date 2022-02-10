@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <h2>About Me</h2>
 
 I am a front-end and back-end developer with experience in building websites and web applications. I specialize MERN stack, along with an expertise in JavaScript, HTML, CSS, and React. Additionally, I have professional experience in working with C#, Angular, WordPress, C and C++.
@@ -20,10 +19,9 @@ Here are some ideas to get you started:
 <h3>Languages and Tools:</h3>
    <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="" style="width: 50px;height: 50px;">
   </div>
-
