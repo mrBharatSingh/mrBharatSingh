@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3>Languages and Tools:</h3>
-<div>
+   <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
-    </div>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
+  </div>
 
