@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>About Me</h1>
+<h2>About Me</h2>
 
 I am a front-end and back-end developer with experience in building websites and web applications. I specialize MERN stack, along with an expertise in JavaScript, HTML, CSS, and React. Additionally, I have professional experience in working with C#, Angular, WordPress, C and C++.
 Outside of coding, my interest lies in creating content on YouTube.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3>Languages and Tools:</h3>
