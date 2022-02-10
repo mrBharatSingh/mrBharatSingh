@@ -24,6 +24,6 @@ Here are some ideas to get you started:
         <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="" style="width: 50px;height: 50px;">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="" style="width: 50px;height: 50px;">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.png" alt="" style="width: 50px;height: 50px;">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fmongodb-original-wordmark-logo%2F146425&psig=AOvVaw1M6SISsohimy77Bokf69y6&ust=1644605527385000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj3_aDn9fUCFQAAAAAdAAAAABAD" alt="" style="width: 50px;height: 50px;">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="" style="width: 50px;height: 50px;">
         <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="" style="width: 50px;height: 50px;">
   </div>
