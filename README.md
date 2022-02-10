@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 <h3>Languages and Tools:</h3>
 <div>
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
     </div>
+
