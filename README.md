@@ -26,5 +26,12 @@ Here are some ideas to get you started:
   </div>
   
   <h2>My Github Stats:</h2>
+<<<<<<< HEAD
    
      <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<mrBharatSingh>&theme=<THEME_NAME>" />
+=======
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=mrBharatSingh)
+   <div>
+      
+  </div>
+>>>>>>> 531131524b24d8d746958e1da03c56873e16c004
