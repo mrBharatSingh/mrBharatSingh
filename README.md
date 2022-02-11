@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/bharatsinghrathore"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" style="width: 50px;height: 50px;"></a>
+<a href="https://twitter.com/bharat9521"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" style="width: 50px;height: 50px;"></a>
+
 <h2>About Me</h2>
 
 I am a front-end and back-end developer with experience in building websites and web applications. I specialize MERN stack, along with an expertise in JavaScript, HTML, CSS, and React. Additionally, I have professional experience in working with C#, Angular, WordPress, C and C++.
