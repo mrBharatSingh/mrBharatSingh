@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/bharatsinghrathore"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" style="width: 50px;height: 50px;"></a>
-<a href="https://twitter.com/bharat9521"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" style="width: 50px;height: 50px;"></a>
+<a href="https://twitter.com/bharat9521"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1644564158~hmac=76caf0513b84f777f69391213767347b" alt="" style="width: 50px;height: 50px;"></a>
 
 <h2>About Me</h2>
 
