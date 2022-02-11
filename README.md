@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   
   <h2>My Github Stats:</h2>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mrBharatSingh)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mrBharatSingh&theme=radical)
