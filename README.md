@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 Proficient in <b>Data Structures and Algorithms.</b>
 - 👯 I’m looking to collaborate on some cool and auesome ideas.
 - 📫 How to reach me: <a href="mrBharatSingh4@gmail.com">mrBharatSingh4@gmail.com</a>
-- ⚡ Know more: <a href="">Bharat's Portfolio</a>
+- ⚡ Know more: <a href="https://mrbharatsingh.github.io/mrBharatSingh/">Bharat's Portfolio</a>
 
 <h2>Languages and Tools:</h2>
    <div>
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   
   <h2>My Github Stats:</h2>
    <div>
-      <a href="">Bharat's Portfolio</a>
+      
   </div>
