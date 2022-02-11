@@ -10,10 +10,8 @@ Here are some ideas to get you started:
 - 🔭 Proficient in <b>MERN Stack</b>
 - 🌱 Proficient in <b>Data Structures and Algorithms.</b>
 - 👯 I’m looking to collaborate on some cool and auesome ideas.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Know more: 
+- 📫 How to reach me: <a href="mrBharatSingh4@gmail.com">mrBharatSingh4@gmail.com</a>
+- ⚡ Know more: <a href="">Bharat's Portfolio</a>
 
 <h2>Languages and Tools:</h2>
    <div>
@@ -29,5 +27,5 @@ Here are some ideas to get you started:
   
   <h2>My Github Stats:</h2>
    <div>
-       
+      <a href="">Bharat's Portfolio</a>
   </div>
