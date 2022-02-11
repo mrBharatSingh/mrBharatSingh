@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3>Languages and Tools:</h3>
+<h2>Languages and Tools:</h2>
    <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" style="width: 50px;height: 50px;">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="" style="width: 50px;height: 50px;">
